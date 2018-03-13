@@ -21,7 +21,7 @@ public class Conector
     private String servidor = "localhost";
     private String base_de_datos = "sae";
     private String usuario = "root";
-    private String contrasena = "HAL&TOGE";
+    private String contrasena = "--";
     private String direccion;
     private PreparedStatement comando;
     
